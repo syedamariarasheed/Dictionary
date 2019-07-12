@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\User\source\repos\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\User\source\repos\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.pdb
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.main.resources
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.AddWord.resources
+C:\Users\User\source\repos\dictionary\dictionary\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\dictionary\dictionary\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\dictionary\dictionary\bin\Debug\dictionary.accdb
+C:\Users\User\source\repos\dictionary\dictionary\obj\Debug\dictionary.csprojAssemblyReference.cache
